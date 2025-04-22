@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.joblib
+*.h5
+*.sqlite3
+*.log
+.cache/
+.vscode/
+.idea/
+*.DS_Store
+*.egg-info/
